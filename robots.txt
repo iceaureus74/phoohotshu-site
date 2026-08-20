@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /uploads/private/
+
+Sitemap: https://phoohotshu.tw/sitemap.xml
+Sitemap: https://phoohotshu.tw/image-sitemap.xml
