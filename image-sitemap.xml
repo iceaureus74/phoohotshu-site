@@ -2,86 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://phoohotshu.tw/</loc>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-living-room-hero.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-concrete-floor.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-existing-tile-floor.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-living-room.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-old-floor.webp</image:loc>
-    </image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-living-room-hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/bedroom-plastic-flooring-use.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/living-room-plastic-flooring-use.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rental-floor-renovation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/shop-flooring-installation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-room-overview.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-original-floor.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-problem-area.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-door-edge.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://phoohotshu.tw/before-installation/</loc>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/flooring-rfq-room-overview.webp</image:loc>
-    </image:image>
+    <loc>https://phoohotshu.tw/plastic-flooring/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/room-overview-wide.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/floor-problems/</loc>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/floor-crack-problem.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/floor-moisture-problem.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/flooring-rfq-floor-problem.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/hollow-damaged-floor-problem.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/uneven-floor-problem.webp</image:loc>
-    </image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-crack-closeup.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/problem-area-detail.webp</image:loc></image:image>
   </url>
   <url>
-    <loc>https://phoohotshu.tw/flooring/fspc/</loc>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/fspc-click-floor-residential.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/fspc-commercial-installation-layers.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/fspc-floor-board-layer.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/fspc-residential-installation-layers.webp</image:loc>
-    </image:image>
+    <loc>https://phoohotshu.tw/guides/concrete-floor/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-sanding-surface.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/guides/floor-moisture/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-moisture-test.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/guides/tile-over-tile/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/tile-over-tile-surface.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/before-installation/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/door-clearance-detail.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/installation/</loc>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/flooring-rfq-door-threshold.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/flooring-rfq-subfloor-closeup.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-damaged-subfloor.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-door-clearance-check.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-edge-trim-check.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-installation-room-overview.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-site-measurement.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-subfloor-closeup.webp</image:loc>
-    </image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/subfloor-trowel-marks.webp</image:loc></image:image>
   </url>
-<url><loc>https://phoohotshu.tw/guides/concrete-floor/</loc><image:image><image:loc>https://phoohotshu.tw/assets/images/concrete-floor-sanding-closeup.webp</image:loc><image:title>水泥地表面起砂與粉化近拍</image:title></image:image><image:image><image:loc>https://phoohotshu.tw/assets/images/uneven-floor-level-check.webp</image:loc><image:title>塑膠地板施工前檢查地面平整度</image:title></image:image><image:image><image:loc>https://phoohotshu.tw/assets/images/concrete-floor-crack-closeup.webp</image:loc><image:title>塑膠地板施工前水泥地裂縫近拍</image:title></image:image></url><url><loc>https://phoohotshu.tw/guides/floor-moisture/</loc><image:image><image:loc>https://phoohotshu.tw/assets/images/floor-moisture-warning.webp</image:loc><image:title>塑膠地板施工前地面潮濕與水氣疑慮</image:title></image:image></url><url><loc>https://phoohotshu.tw/guides/tile-over-tile/</loc><image:image><image:loc>https://phoohotshu.tw/assets/images/damaged-tile-floor-closeup.webp</image:loc><image:title>塑膠地板施工前既有磁磚破損近拍</image:title></image:image><image:image><image:loc>https://phoohotshu.tw/assets/images/door-clearance-flooring.webp</image:loc><image:title>鋪設塑膠地板前檢查門片與地面高度</image:title></image:image></url><url><loc>https://phoohotshu.tw/guides/plastic-flooring-cost-per-ping/</loc><image:image><image:loc>https://phoohotshu.tw/assets/images/flooring-transition-edge.webp</image:loc><image:title>塑膠地板與既有地材交界收邊位置</image:title></image:image></url></urlset>
+  <url>
+    <loc>https://phoohotshu.tw/renovation/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/threshold-transition.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/quote/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-room-overview.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-original-floor.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-problem-area.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-door-edge.webp</image:loc></image:image>
+  </url>
+</urlset>
