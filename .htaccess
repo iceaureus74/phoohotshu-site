@@ -1,0 +1,26 @@
+RewriteEngine On
+
+# Force HTTPS and non-www
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.phoohotshu\.tw$ [NC]
+RewriteRule ^ https://phoohotshu.tw%{REQUEST_URI} [R=301,L]
+
+ErrorDocument 404 /404.html
+
+# Security / caching
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType text/css "access plus 30 days"
+  ExpiresByType application/javascript "access plus 30 days"
+</IfModule>
+
+Redirect 301 /guides/plastic-flooring-diy/ /guides/plastic-flooring-diy-guide/
+Redirect 301 /guides/plastic-flooring-installation-time/ /guides/plastic-flooring-installation-days/
+Redirect 301 /guides/pvc-vs-spc/ /guides/spc-vs-plastic-flooring/
+Redirect 301 /guides/plastic-flooring-pros-cons/ /guides/plastic-flooring-disadvantages/

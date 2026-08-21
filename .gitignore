@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local only
+*.log
+config/app.php
+storage/private_uploads/*
+!storage/private_uploads/.htaccess
+storage/logs/*
+!storage/logs/.gitkeep

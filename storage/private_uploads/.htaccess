@@ -1,0 +1,8 @@
+# Private upload storage: deny all direct web access.
+Require all denied
+
+<IfModule !mod_authz_core.c>
+  Deny from all
+</IfModule>
+
+Options -Indexes
