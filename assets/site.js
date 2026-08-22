@@ -32,7 +32,7 @@ function submitWizard(e){
   if(!form)return;
   const steps=[...form.querySelectorAll('.rfqStep')];
   let current=0;
-  const show=(i)=>{current=Math.max(0,Math.min(steps.length-1,i));steps.forEach((s,n)=>s.classList.toggle('on',n===current));window.scrollTo({top:form.offsetTop-100,behavior:'smooth'});};
+  const show=(i)=>{current=Math.max(0,Math.min(steps.length-1,i));steps.forEach((s,n)=>s.classList.toggle('on',n===current));document.querySelectorAll('#rfqProgress span').forEach((x,n)=>x.classList.toggle('on',n<=current));window.scrollTo({top:form.offsetTop-100,behavior:'smooth'});};
   form.querySelectorAll('[data-next]').forEach(btn=>btn.addEventListener('click',()=>{
     const required=[...steps[current].querySelectorAll('[required]')];
     for(const el of required){if(!el.checkValidity()){el.reportValidity();return;}}
