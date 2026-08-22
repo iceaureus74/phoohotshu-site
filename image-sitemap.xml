@@ -14,12 +14,31 @@
   </url>
   <url>
     <loc>https://phoohotshu.tw/plastic-flooring/</loc>
-    <image:image><image:loc>https://phoohotshu.tw/assets/images/room-overview-wide.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/plastic-flooring-room-floor-detail.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/bedroom-plastic-flooring-use.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/living-room-plastic-flooring-use.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rental-floor-renovation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/shop-flooring-installation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/tile-over-tile-surface.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-sanding-surface.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-crack-closeup.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/flooring/fspc/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/fspc-floor-board-closeup.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/fspc-thickness-comparison.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/fspc-subfloor-check.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/fspc-residential-flooring-use.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/fspc-commercial-flooring-use.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/floor-problems/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/damaged-subfloor-before-flooring.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/uneven-floor-level-check.webp</image:loc></image:image>
     <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-crack-closeup.webp</image:loc></image:image>
-    <image:image><image:loc>https://phoohotshu.tw/assets/images/problem-area-detail.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-moisture-test.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-sanding-surface.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/loose-hollow-tile-floor-check.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/guides/concrete-floor/</loc>
@@ -35,15 +54,27 @@
   </url>
   <url>
     <loc>https://phoohotshu.tw/before-installation/</loc>
-    <image:image><image:loc>https://phoohotshu.tw/assets/images/door-clearance-detail.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/room-overview-wide.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-room-overview.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-original-floor.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-problem-area.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/rfq-photo-guide-door-edge.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/installation/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/flooring-installation-worker-floor.webp</image:loc></image:image>
     <image:image><image:loc>https://phoohotshu.tw/assets/images/subfloor-trowel-marks.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/door-clearance-detail.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/problem-area-detail.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/threshold-transition.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/flooring-installation-cutting.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/flooring-finished-edge-detail.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/renovation/</loc>
-    <image:image><image:loc>https://phoohotshu.tw/assets/images/threshold-transition.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/old-floor-before-renovation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/occupied-home-renovation.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/empty-home-renovation.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/quote/</loc>
