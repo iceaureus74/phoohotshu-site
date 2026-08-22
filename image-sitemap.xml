@@ -43,14 +43,30 @@
   <url>
     <loc>https://phoohotshu.tw/guides/concrete-floor/</loc>
     <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-sanding-surface.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/concrete-floor-sanding-closeup.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/concrete-floor-crack-closeup.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/guides/floor-moisture/</loc>
     <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-moisture-test.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-moisture-warning.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/guides/tile-over-tile/</loc>
     <image:image><image:loc>https://phoohotshu.tw/assets/images/tile-over-tile-surface.webp</image:loc></image:image>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/damaged-tile-floor-closeup.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/guides/old-house-floor-renovation/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/door-clearance-flooring.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/guides/plastic-flooring-disadvantages/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/flooring-transition-edge.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://phoohotshu.tw/guides/plastic-flooring-diy-guide/</loc>
+    <image:image><image:loc>https://phoohotshu.tw/assets/images/floor-obstacle-pipe-edge.webp</image:loc></image:image>
   </url>
   <url>
     <loc>https://phoohotshu.tw/before-installation/</loc>
