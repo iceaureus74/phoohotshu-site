@@ -98,16 +98,3 @@ function submitWizard(e){
   });
 })();
 
-document.addEventListener('click', async (e) => {
-  const btn = e.target.closest('[data-copy-line]');
-  if (!btn) return;
-  const id = btn.getAttribute('data-copy-line') || 'iceaureus';
-  try {
-    await navigator.clipboard.writeText(id);
-    const old = btn.textContent;
-    btn.textContent = '已複製：' + id;
-    setTimeout(() => btn.textContent = old, 1800);
-  } catch (err) {
-    window.prompt('請複製 LINE ID：', id);
-  }
-});

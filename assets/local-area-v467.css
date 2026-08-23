@@ -29,11 +29,11 @@
 /* Unified LINE + Price conversion additions */
 .homeConversionBand{padding:10px 0 56px}
 .homeConversionGrid,.localConversionGrid,.quotePreInfo{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-.priceQuickBox,.lineQuickBox{display:flex;justify-content:space-between;gap:22px;align-items:center;padding:24px;border:1px solid var(--line);border-radius:20px;background:#fff}
-.priceQuickBox small,.lineQuickBox small{display:block;color:var(--orange);font-weight:950;letter-spacing:.08em;margin-bottom:6px}
+.priceQuickBox{display:flex;justify-content:space-between;gap:22px;align-items:center;padding:24px;border:1px solid var(--line);border-radius:20px;background:#fff}
+.priceQuickBox small{display:block;color:var(--orange);font-weight:950;letter-spacing:.08em;margin-bottom:6px}
 .priceQuickBox h3{margin:2px 0;font-size:21px}
-.priceQuickBox p,.lineQuickBox p{margin:6px 0 0;color:var(--muted);font-size:14px}
-.lineQuickBox strong{display:block;font-size:24px;color:var(--green)}
-.lineCopyBtn{white-space:nowrap}
-@media(max-width:900px){.homeConversionGrid,.localConversionGrid,.quotePreInfo{grid-template-columns:1fr}.priceQuickBox,.lineQuickBox{align-items:flex-start}}
-@media(max-width:600px){.priceQuickBox,.lineQuickBox{display:block}.priceQuickBox .btn,.lineQuickBox .btn{margin-top:14px;width:100%}}
+.priceQuickBox p{margin:6px 0 0;color:var(--muted);font-size:14px}
+
+
+@media(max-width:900px){.homeConversionGrid,.localConversionGrid,.quotePreInfo{grid-template-columns:1fr}.priceQuickBox{align-items:flex-start}}
+@media(max-width:600px){.priceQuickBox{display:block}.priceQuickBox .btn{margin-top:14px;width:100%}}
