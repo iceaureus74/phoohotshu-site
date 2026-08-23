@@ -29,3 +29,14 @@
 .roundedConv{width:100%;height:360px;object-fit:cover;border-radius:22px}
 @media(max-width:900px){.convHeroGrid,.convSplit{grid-template-columns:1fr}.priceFactorGrid{grid-template-columns:1fr 1fr}.areaCards{grid-template-columns:1fr}.sectionLead{display:block}.serviceSteps{grid-template-columns:1fr 1fr}}
 @media(max-width:600px){.priceFactorGrid,.serviceSteps{grid-template-columns:1fr}.rfqIntro{display:block}.rfqIntro span{display:block;margin-top:4px}}
+
+/* Unified LINE + Price conversion additions */
+.quotePreInfo{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-bottom:24px}
+.priceQuickBox,.lineQuickBox{display:flex;justify-content:space-between;gap:22px;align-items:center;padding:24px;border:1px solid var(--line);border-radius:20px;background:#fff}
+.priceQuickBox small,.lineQuickBox small{display:block;color:var(--orange);font-weight:950;letter-spacing:.08em;margin-bottom:6px}
+.priceQuickBox h3{margin:2px 0;font-size:21px}
+.priceQuickBox p,.lineQuickBox p{margin:6px 0 0;color:var(--muted);font-size:14px}
+.lineQuickBox strong{display:block;font-size:24px;color:var(--green)}
+.lineCopyBtn{white-space:nowrap}
+@media(max-width:900px){.quotePreInfo{grid-template-columns:1fr}}
+@media(max-width:600px){.priceQuickBox,.lineQuickBox{display:block}.priceQuickBox .btn,.lineQuickBox .btn{margin-top:14px;width:100%}}
